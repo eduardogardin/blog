@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.eduardogardin.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Blog by Gardin',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Eduardo Gardin',
+    photo: '/blog-profile.jpg',
+    bio: 'Tech Lead | Software Developer',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: 'eduardo_gardin',
+      github: 'eduardogardin',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'eduardogardin',
+      instagram: 'eduardogardin',
       line: '',
       gitlab: '',
       weibo: '',
